@@ -11,6 +11,7 @@
 		885BEE36252F323F0004F39F /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 885BEE35252F323F0004F39F /* ContentView.swift */; };
 		885BEE38252F323F0004F39F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 885BEE37252F323F0004F39F /* Assets.xcassets */; };
 		885BEE3B252F323F0004F39F /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 885BEE3A252F323F0004F39F /* Preview Assets.xcassets */; };
+		885BEE44252F5E2E0004F39F /* ColorDetailsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 885BEE43252F5E2E0004F39F /* ColorDetailsView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,6 +21,7 @@
 		885BEE37252F323F0004F39F /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		885BEE3A252F323F0004F39F /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		885BEE3C252F323F0004F39F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		885BEE43252F5E2E0004F39F /* ColorDetailsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ColorDetailsView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +56,7 @@
 			children = (
 				885BEE33252F323F0004F39F /* ColorsApp.swift */,
 				885BEE35252F323F0004F39F /* ContentView.swift */,
+				885BEE43252F5E2E0004F39F /* ColorDetailsView.swift */,
 				885BEE37252F323F0004F39F /* Assets.xcassets */,
 				885BEE3C252F323F0004F39F /* Info.plist */,
 				885BEE39252F323F0004F39F /* Preview Content */,
@@ -138,6 +141,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				885BEE44252F5E2E0004F39F /* ColorDetailsView.swift in Sources */,
 				885BEE36252F323F0004F39F /* ContentView.swift in Sources */,
 				885BEE34252F323F0004F39F /* ColorsApp.swift in Sources */,
 			);

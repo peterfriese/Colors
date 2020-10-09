@@ -33,7 +33,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-![Screenshot][product-screenshot]
+![Demo][product-demo]
 
 <!-- CONTRIBUTING -->
 ## Contributing
@@ -97,5 +97,5 @@ This is not an official Google product.
 [linkedin-url]: https://linkedin.com/in/peterfriese
 
 [product-screenshot]: assets/screenflow.png
-[product-demo]: assets/demo.gif
+[product-demo]: Assets/demo.gif
 [product-screenshot]: assets/screenshot.png "Screenshot of Colors, a sample app demonstrating the new SwiftUI 2 application life cycle"

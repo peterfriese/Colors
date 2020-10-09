@@ -11,7 +11,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/peterfriese/Colors">
-    <img src="assets/logo/logo.jpg" alt="Logo">
+    <img src="Assets/logo/logo.jpg" alt="Logo">
   </a>
 
   <h3 align="center">Colors</h3>

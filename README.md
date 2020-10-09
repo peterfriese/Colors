@@ -18,20 +18,10 @@
 
   <p align="center">
     This is the source code for <i>Colors</i>, a sample app for demonstrating the new SwiftUI 2 application life cycle.
-    <br />
-    <a href="https://github.com/peterfriese/Colors"><strong>Explore the docs »</strong></a>
-    <br />
-    <br />
-    <a href="https://github.com/peterfriese/Colors#Demo">View Demo</a>
-    ·
-    <a href="https://github.com/peterfriese/Colors/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/peterfriese/Colors/issues">Request Feature</a>
-  </p>
 </p>
 
-<!-- ABOUT THE PROJECT -->
-## About The Project
+<!-- DEMO -->
+## Demo
 
 ![Demo][product-demo]
 

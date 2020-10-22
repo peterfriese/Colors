@@ -13,7 +13,7 @@ struct ColorDetailsView: View {
   var color: String
   
   var body: some View {
-    Image(color)
+    Image(color.lowercased())
       .resizable()
       .aspectRatio(contentMode: .fill)
       .ignoresSafeArea(edges: .bottom)

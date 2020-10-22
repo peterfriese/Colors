@@ -22,7 +22,7 @@ struct ContentView: View {
         LazyVGrid(columns: columns) {
           ForEach(colors, id: \.self) { color in
             NavigationLink(destination: ColorDetailsView(color: color), tag: color, selection: $selectedColor) {
-              Image(color)
+              Image(color.lowercased())
             }
           }
         }
